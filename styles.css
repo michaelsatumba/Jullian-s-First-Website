@@ -1,0 +1,26 @@
+p {
+	margin: 0;
+	font-size: 40px;
+}
+
+h1 {
+	color: purple;
+}
+
+li {
+	color: darkmagenta;
+}
+
+body {
+	background-color: lightgray;
+}
+
+.first {
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+}
+
+ul {
+	list-style-type: '🐣';
+}
