@@ -24,3 +24,8 @@ body {
 ul {
 	list-style-type: '🐣';
 }
+
+footer {
+	color: purple;
+	text-align: center;
+}
